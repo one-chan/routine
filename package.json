@@ -4,6 +4,8 @@
   "description": "またゴミ捨て忘れた",
   "main": "index.js",
   "scripts": {
+    "start": "electron .",
+    "build": "bable src -d app"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
