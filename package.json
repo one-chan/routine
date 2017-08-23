@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/one-chan/routine#readme",
   "dependencies": {
+    "babel-cli": "^6.26.0",
     "node-notifier": "^5.1.2"
   }
 }
