@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/one-chan/routine/issues"
   },
-  "homepage": "https://github.com/one-chan/routine#readme"
+  "homepage": "https://github.com/one-chan/routine#readme",
+  "dependencies": {
+    "node-notifier": "^5.1.2"
+  }
 }
